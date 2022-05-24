@@ -1,52 +1,30 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
-
+> This project has the aim of practicing linters, Git/Github
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+Html & Css
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+Hello Microverse project initiate student on how to use linters, Git/Github and Github flow.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+create .github/workflows folder in your first commit for the feature branch then add a copy of .github/workflows/linters.yml to the created folder
 
 ## Authors
 
-👤 **Author1**
+👤 **Nicholas Emmanuel**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-
+- GitHub: [@githubhandle](https://github.com/NickEmma)
+- Twitter: [@twitterhandle](https://twitter.com/techieEmma)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nicholas-emmanuel-6b9775207)
 
 ## 🤝 Contributing
 
@@ -66,4 +44,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is not licensed.
